@@ -15,7 +15,7 @@ const ibmPlexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Muhamad Ilham Fauzi | Brutalist Portfolio",
+  title: "Muhamad Ilham Fauzi | Portfolio",
   description:
     "Portfolio brutalism of Muhamad Ilham Fauzi: full-stack, QA, and DevOps experience with high-impact projects.",
   keywords: [
